@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dakerdenis
-- 👀 I’m interested in Web Development, IT , Databases, and how convert IT knowledge into income !
+- 👀 I’m interested in Web Development, IT , Databases, and how to convert IT knowledge into big income !
 - 🌱 I’m currently learning Vue.js and React
 - 💞️ I’m looking to collaborate on creative Ideas
 - 📫 How to reach me:
