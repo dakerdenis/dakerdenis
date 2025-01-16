@@ -1,7 +1,7 @@
 # Hi 👋, I'm Denis Akershteyn
 ---
 ## About Me
-- 👨‍💻 Founder of [https://daker.site/].
+- 👨‍💻 Founder of https://daker.site/
 - 🔭 I’m currently working on various web development projects and exploring new technologies.
 - 🌱 I’m currently learning **Rust** and enhancing my knowledge in **Docker**.
 - 💬 Ask me about **Laravel, PHP, HTML, CSS, React, Docker, MySQL, and Design**.
