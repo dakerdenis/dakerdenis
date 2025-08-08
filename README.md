@@ -27,11 +27,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
----
 
-## Projects and Achievements:
-- 🚀 Created responsive and interactive websites using **React, Laravel, and MySQL**.
-- 🎨 Designed stunning UI/UX for multiple startups and businesses.
-- 🌍 Developed scalable applications with **Docker** and **containerization principles**.
-
----
